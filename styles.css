@@ -167,3 +167,14 @@ body {
     font-size: 1rem;
   }
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  font-family: var(--fraunces);
+  color: var(--very-dark-blue);
+}
+
+.attribution a {
+  color: var(--dark-cyan);
+}
